@@ -1,0 +1,5 @@
+- Append: "a"
+    - This mode is used when you want to add new content to the end of a file without deleting the existing content.
+    - If the file doesn't exist, Python will create a new file for you.
+    - Example: You want to add to a file without loosing its existing contents
+	
